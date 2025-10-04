@@ -1,0 +1,30 @@
+{
+  "michaelSilva": {
+    "biografia": "Sou Michael Henrique Pedro Silva, nascido em 09 de novembro de 2003. Atualmente, sou Soldado da Polícia Militar do Estado de São Paulo (desde 2024), onde desenvolvo disciplina, foco e responsabilidade no serviço à sociedade. Paralelamente, atuo como desenvolvedor web em formação, com especial apreço por responsividade, interatividade e animações fluidas, pois acredito que a experiência do usuário deve refletir dedicação e inovação. Também sou investidor em construção, com visão de independência financeira no médio e longo prazo. Minha trajetória une tecnologia, estratégia e resiliência, pilares que guiam meus projetos atuais e futuros.",
+    "capacitacoes": {
+      "certificados": [
+        "Lógica de Programação",
+        "Introdução ao Python"
+      ],
+      "cursosEmAndamento": [
+        "PHP"
+      ],
+      "linguagens": [
+        "Python",
+        "HTML & CSS",
+        "JavaScript",
+        "PHP (Parcial)"
+      ],
+      "habilidadesPraticas": [
+        "Edição de Vídeo",
+        "Filmagem",
+        "Design de Interfaces (UI)"
+      ]
+    }
+  },
+  "aurevoGlobal": {
+    "missao": "Ser um pilar de expansão, inovação e confiabilidade, unindo negócios sólidos com visão de futuro e buscando crescimento sustentável e soluções estratégicas para diferentes setores.",
+    "visao": "Tornar-se referência internacional em gestão empresarial e desenvolvimento de projetos de alto valor, incorporando a ideia de evolução contínua.",
+    "valores": "Transparência, inovação tecnológica e impacto positivo."
+  }
+}
